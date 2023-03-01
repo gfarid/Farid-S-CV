@@ -149,3 +149,13 @@
 .newline {
     display:block;
 }
+
+.pimg1 {
+    width: 700px;
+    height: auto;
+}
+
+.pimg {
+    width: 300px;
+    height: auto;
+}
